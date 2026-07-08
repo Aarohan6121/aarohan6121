@@ -1,32 +1,18 @@
-# Hey, I'm Aarohan!
+# Hello, I am Aarohan!
 
-CS student tinkering with code and hardware — currently deep in Python fundamentals and Arduino projects.
+I am a computer science student. I like to play around with code and hardware.
 
-- Learning Python through daily practice!
-- Building with Arduino — sensors, microcontrollers, motors etc.
-- Picking up linear algebra on the side (Khan Academy / 3Blue1Brown)
-- When I'm not coding, I love to watch football.
+Now I am learning the basics of Python and working on projects with Arduino.
 
-## Skills
+- I practice Python every day to get better at it.
+- I am building things with Arduino. This includes working with sensors and microcontrollers and motors.
+- I am also learning about algebra in my free time. I use Khan Academy and 3Blue1Brown to learn.
+-  When I am not writing code I like to watch football.
 
-**Languages:** Python, HTML, CSS, JS
-**Hardware:** Arduino (HC-SR04, CH340C-based boards)  
-**Tools:** VS Code, Windows Terminal, Git
+## Here are some things I can do:
 
-## Reach me
+- **Languages**: I know Python, HTML, CSS and JavaScript
+- **Hardware**: I have experience with Arduino, including things like the HC-SR04 and CH340C-based boards
+- **Tools**: I use Visual Studio Code, Windows Terminal and Git
 
-- [email or LinkedIn link]
-<!--
-**Aarohan6121/aarohan6121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on - Refining my Jarvis voice assistant
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can get in touch with me at my instagram acc through my github account's details.
