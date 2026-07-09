@@ -1,8 +1,8 @@
-# Hi, I'm Aarohan! <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/wave.gif" width="30px">
+# Hey there!
 
-Computer science student who likes tinkering with code and hardware. 
+I'm Aarohan, a CS student who likes tinkering with code and hardware.
 
-Currently learning Python and building things with Arduino.
+Right now I'm deep into learning python and building random things with arduino.
 
 ## Skills
 
@@ -19,4 +19,4 @@ Currently learning Python and building things with Arduino.
 
 ## Reach me
 
-- [Instagram](https://www.instagram.com/aarohann._/).
+- My Instagram account: [aarohann._](https://www.instagram.com/aarohann._/).
