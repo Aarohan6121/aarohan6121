@@ -16,7 +16,3 @@ Right now I'm deep into learning python and building random things with arduino.
 - Into anime like **One Piece** and **Berserk**
 - When i'm not coding, I love to watch **football**
 - Learning **linear algebra** in my free time
-
-## Reach me
-
-- My Instagram account: [aarohann._](https://www.instagram.com/aarohann._/).
