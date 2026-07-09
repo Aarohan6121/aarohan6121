@@ -1,4 +1,4 @@
-# Hey there! <img src="C:\Users\HP\Downloads\Images\hello.png" width="25" height="25" alt="wave">
+# Hey there! <img src="C:/Users/HP/Downloads/Images/hello.png" width="25" height="25" alt="wave">
 
 I'm Aarohan, a CS student who likes tinkering with code and hardware.
 
