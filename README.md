@@ -1,29 +1,22 @@
-# Hello, I am Aarohan!
+# Hi, I'm Aarohan! <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/wave.gif" width="30px">
 
-I am a computer science student. I like to play around with code and hardware.
+Computer science student who likes tinkering with code and hardware. 
 
-Now I am learning the basics of Python and working on projects with Arduino.
+Currently learning Python and building things with Arduino.
 
-- I practice Python every day to get better at it.
-- I am building things with Arduino. This includes working with sensors and microcontrollers and motors.
-- I am also learning about algebra in my free time. I use Khan Academy and 3Blue1Brown to learn.
--  When I am not writing code I like to watch football.
--  
-## Featured Projects
- 
-### [jarvis-ai-python](https://github.com/Aarohan6121/jarvis-ai-python)
-A lightweight, terminal-based voice assistant powered by Groq's Llama 3.1 for fast cloud processing and Edge-TTS for natural voice output — optimized to run smoothly even on lower-end machines.
- 
-### [banking-system-oop](https://github.com/Aarohan6121/banking-system-oop)
-A terminal banking application built with Python OOP, featuring modular file structure, secure 4-digit PIN verification, real-time balance checks, and validated deposit/withdrawal operations.
- 
-### [data-analysis-with-pandas](https://github.com/Aarohan6121/data-analysis-with-pandas)
-A collection of Python scripts exploring data manipulation, filtering, cleaning, merging, sorting, and aggregation using Pandas.
+## Skills
 
-## Here are some things I can do:
+- **Languages:** Python, HTML, CSS, JavaScript
+- **Hardware:** Arduino (HC-SR04, CH340C-based boards)
+- **Tools:** VS Code, Windows Terminal, Git
 
-- **Languages**: I know Python, HTML, CSS and JavaScript
-- **Hardware**: I have experience with Arduino, including things like the HC-SR04 and CH340C-based boards
-- **Tools**: I use Visual Studio Code, Windows Terminal and Git
+## A bit about me
 
-You can get in touch with me at my instagram acc through my github account's details.
+- I am a **class 9** student
+- Into anime like **One Piece** and **Berserk**
+- When i'm not coding, I love to watch **football**
+- Learning **linear algebra** in my free time
+
+## Reach me
+
+- [Instagram](https://www.instagram.com/aarohann._/).
