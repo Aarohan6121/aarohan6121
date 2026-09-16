@@ -14,5 +14,5 @@ Right now I'm deep into learning python and building random things with arduino.
 
 - I am a **class 9** student
 - Into anime like **One Piece** and **Berserk**
-- When i'm not coding, I love to watch **football**
-- Learning **linear algebra** in my free time
+- When i'm not coding, I love to watch **Tv Shows**
+- Learning **Chess** in my free time
