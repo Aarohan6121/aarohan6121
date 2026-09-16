@@ -12,6 +12,6 @@ Right now I'm deep into learning python and building random projects using it!
 ## A bit about me
 
 - I am a **class 9** student.
+- Learning **Chess** in my free time.
 - Into anime like **One Piece** and **Berserk**.
 - When i'm not coding, I love to watch **TV Shows**.
-- Learning **Chess** in my free time.
